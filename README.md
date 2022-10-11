@@ -7,7 +7,7 @@
 
 📈 my github stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=swon054&show_icons=true&theme=gotham" alt="swon054" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Swon054&show_icons=true&theme=gotham" alt="Swon054" /></p>
 
 👀 my most used language
 
